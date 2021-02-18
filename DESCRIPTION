@@ -1,6 +1,6 @@
 Package: fishbc
 Title: Fishes of British Columbia
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: 
     c(person(given = "Evan",
              family = "Amies-Galonski",
@@ -12,6 +12,11 @@ Authors@R:
              role = "aut",
              email = "joe@poissonconsulting.ca",
              comment = c(ORCID = "https://orcid.org/0000-0002-7683-4592")),
+      person(given = "Nadine",
+             family = "Hussein",
+             role = "aut",
+             email = "nadine@poissonconsulting.ca",
+             comment = c(ORCID = "https://orcid.org/0000-0003-4470-8361")),
         person(given = "Bronwen",
              family = "Lewis",
              role = "ctb"),
@@ -27,6 +32,9 @@ Authors@R:
         person(given = "Simon",
              family = "Norris",
              role = "ctb"),
+        person(given = "Allan",
+             family = "Irvine",
+             role = "ctb"),
       person(given = "Poisson Consulting",
              role = c("cph", "fnd")),
       person(given = "Province of British Columbia",
@@ -37,24 +45,26 @@ Description: Provides raw and curated data on the codes,
 License: CC BY 4.0
 URL: https://github.com/poissonconsulting/fishbc
 BugReports: https://github.com/poissonconsulting/fishbc/issues
-Depends: R (>= 3.3)
+Depends: R (>= 3.4)
 Suggests: chk, testthat, covr
 Encoding: UTF-8
 Language: en-US
 LazyData: true
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-10-30 18:28:19 UTC; evanamies-galonski
+Packaged: 2021-02-18 20:11:52 UTC; evanamies-galonski
 Author: Evan Amies-Galonski [aut, cre]
     (<https://orcid.org/0000-0003-1096-2089>),
   Joe Thorley [aut] (<https://orcid.org/0000-0002-7683-4592>),
+  Nadine Hussein [aut] (<https://orcid.org/0000-0003-4470-8361>),
   Bronwen Lewis [ctb],
   Jesse Patterson [ctb],
   Gordon Oliphant [ctb],
   Seb Dalgarno [ctb],
   Simon Norris [ctb],
+  Allan Irvine [ctb],
   Poisson Consulting [cph, fnd],
   Province of British Columbia [cph]
 Maintainer: Evan Amies-Galonski <evan@poissonconsulting.ca>
 Repository: CRAN
-Date/Publication: 2020-10-30 18:50:02 UTC
+Date/Publication: 2021-02-18 22:30:02 UTC

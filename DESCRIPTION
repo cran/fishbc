@@ -1,6 +1,6 @@
 Package: fishbc
 Title: Fishes of British Columbia
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: 
     c(person(given = "Evan",
              family = "Amies-Galonski",
@@ -52,7 +52,7 @@ Language: en-US
 LazyData: true
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2021-02-18 20:11:52 UTC; evanamies-galonski
+Packaged: 2021-05-12 20:55:35 UTC; evanamies-galonski
 Author: Evan Amies-Galonski [aut, cre]
     (<https://orcid.org/0000-0003-1096-2089>),
   Joe Thorley [aut] (<https://orcid.org/0000-0002-7683-4592>),
@@ -67,4 +67,4 @@ Author: Evan Amies-Galonski [aut, cre]
   Province of British Columbia [cph]
 Maintainer: Evan Amies-Galonski <evan@poissonconsulting.ca>
 Repository: CRAN
-Date/Publication: 2021-02-18 22:30:02 UTC
+Date/Publication: 2021-05-12 21:10:02 UTC

@@ -1,6 +1,6 @@
-c48d040b90177c2099be302294b2a16e *DESCRIPTION
+d6f0ba612f7e1975e10fd29486076e27 *DESCRIPTION
 ed1583277c5b619cad3f7e4154a59782 *NAMESPACE
-9bc68710d998e48a3dc5733d663b13bf *NEWS.md
+6b2b35223c2685896f913123a7fce84d *NEWS.md
 c4e706350a7181375617bd824a81ef57 *R/ab.R
 0429d87d9d5e425b411dfb0c590c97a5 *R/cdc.R
 b411fe5078e21d32736e2cc5f41e4341 *R/common-name.R
@@ -11,6 +11,7 @@ e0ef681901465d24f47f9139cb2c086a *R/fishbc-package.R
 b2d64eb487446a3cef0e746991063507 *data/ab.rda
 1546d5b0e84bb43794a811ef037682aa *data/cdc.rda
 8ffa1830652b6f2505ce17e494288e3f *data/freshwaterfish.rda
+a99c4fe70d374d2dd42e05f05d13dd91 *inst/WORDLIST
 112b68a89bf7187782d910b24d7c7c5b *man/ab.Rd
 1273a625262110363aa8711881e8b81b *man/cdc.Rd
 c5c669edc18f6ce15de1425d2d502c15 *man/fbc_common_name.Rd
@@ -20,5 +21,5 @@ f82cb6a5c5cad86e40866e44c51baba2 *man/freshwaterfish.Rd
 a54f8644ba0c0c8cea18f9ee28dd6a35 *tests/testthat/test-ab.R
 153d3541133ade98766d529aebe72098 *tests/testthat/test-cdc.R
 7d2085c14620d5076f3d86dcd862c0cd *tests/testthat/test-common-name.R
-06c5f5bd381cd937908c52239c8d4676 *tests/testthat/test-freshwaterfish.R
-a3364ac8d0caf0ce9f8a572604b61093 *tests/testthat/test-whse_fish_species_cd.R
+0d270184425dd74579ce8a790368ba2e *tests/testthat/test-freshwaterfish.R
+ca72e2c1a404e330d493da63ccf0c242 *tests/testthat/test-whse_fish_species_cd.R

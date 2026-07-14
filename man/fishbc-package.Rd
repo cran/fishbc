@@ -6,23 +6,22 @@
 \alias{fishbc-package}
 \title{fishbc: Fishes of British Columbia}
 \description{
-Provides raw and curated data on the codes,
-    classification and conservation status of freshwater fishes in British
-    Columbia. Marine fishes will be added in a future release.
+Provides raw and curated data on the codes, classification and conservation status of freshwater fishes in British Columbia. Marine fishes will be added in a future release.
 }
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/poissonconsulting/fishbc}
+  \item \url{https://poissonconsulting.github.io/fishbc/}
   \item Report bugs at \url{https://github.com/poissonconsulting/fishbc/issues}
 }
 
 }
 \author{
-\strong{Maintainer}: Evan Amies-Galonski \email{evan@poissonconsulting.ca} (\href{https://orcid.org/0000-0003-1096-2089}{ORCID})
+\strong{Maintainer}: Sarah Lyons \email{sarah@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-6745-6796}{ORCID})
 
 Authors:
 \itemize{
+  \item Evan Amies-Galonski \email{evanamiesgalonski@gmail.com} (\href{https://orcid.org/0000-0003-1096-2089}{ORCID})
   \item Joe Thorley \email{joe@poissonconsulting.ca} (\href{https://orcid.org/0000-0002-7683-4592}{ORCID})
   \item Nadine Hussein \email{nadine@poissonconsulting.ca} (\href{https://orcid.org/0000-0003-4470-8361}{ORCID})
 }
@@ -32,7 +31,7 @@ Other contributors:
   \item Bronwen Lewis [contributor]
   \item Jesse Patterson [contributor]
   \item Gordon Oliphant [contributor]
-  \item Seb Dalgarno [contributor]
+  \item Seb Dalgarno (\href{https://orcid.org/0000-0002-3658-4517}{ORCID}) [contributor]
   \item Simon Norris [contributor]
   \item Allan Irvine [contributor]
   \item Poisson Consulting [copyright holder, funder]
